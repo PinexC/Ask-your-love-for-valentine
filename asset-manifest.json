@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ask-your-love-for-valentine/static/css/main.cf42b8b4.css",
+    "main.js": "/Ask-your-love-for-valentine/static/js/main.dcb384ff.js",
+    "static/js/592.7f72a991.chunk.js": "/Ask-your-love-for-valentine/static/js/592.7f72a991.chunk.js",
+    "index.html": "/Ask-your-love-for-valentine/index.html",
+    "main.cf42b8b4.css.map": "/Ask-your-love-for-valentine/static/css/main.cf42b8b4.css.map",
+    "main.dcb384ff.js.map": "/Ask-your-love-for-valentine/static/js/main.dcb384ff.js.map",
+    "592.7f72a991.chunk.js.map": "/Ask-your-love-for-valentine/static/js/592.7f72a991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf42b8b4.css",
+    "static/js/main.dcb384ff.js"
+  ]
+}
